@@ -5,4 +5,6 @@ Currently engaged in open-source projects such as:
  - sentio
  - automower_hass
  - easee_hass
+ - senz
+ - weatherlink
 - OPNsense
