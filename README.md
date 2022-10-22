@@ -3,10 +3,9 @@
 Currently engaged in open-source projects such as:
 - Home Assistant
     - sentio
-    - automower_hass
     - easee_hass
     - miele
-    - senz
     - weatherlink
     - teracom
+    - viva
 - OPNsense
